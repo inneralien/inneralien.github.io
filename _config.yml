@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Is it too much to ask for a hollowed out asteroid to call my own, and a
   personal wormhole to get me there?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://inneralien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inneralien
 github_username:  inneralien
 
@@ -28,6 +28,15 @@ markdown: kramdown
 theme: tale
 plugins:
   - jekyll-feed
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
 
 permalink:  /:year-:month-:day/:title
 paginate:   5
