@@ -26,13 +26,9 @@ github_username:  inneralien
 # Build settings
 markdown: kramdown
 remote_theme: chesterhow/tale
+theme: tale
 plugins:
   - jekyll-feed
-
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
 
 # Gems
 plugins:
