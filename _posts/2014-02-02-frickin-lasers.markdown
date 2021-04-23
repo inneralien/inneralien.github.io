@@ -108,6 +108,6 @@ by firing a hot laser. The innermost tube must contain the gas that creates the
 laser beam. Very cool piece of technology. The machine provides 30,000V to the
 tube to actually create the laser beam.
 
-![Steve for Size](/assets/steve_for_size.jpg){:width="60%"}
+![Steve for Size](/assets/human_for_scale.png){:width="60%"}
 
 Next up is assembly!
