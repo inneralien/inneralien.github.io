@@ -25,14 +25,10 @@ github_username:  inneralien
 
 # Build settings
 markdown: kramdown
-#remote_theme: chesterhow/tale
-#theme: tale
-plugins:
-  - jekyll-feed
-
-# Gems
+remote_theme: chesterhow/tale
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
 
 permalink:  /:year-:month-:day/:title
 paginate:   5
