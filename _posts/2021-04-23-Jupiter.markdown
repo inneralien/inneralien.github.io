@@ -36,10 +36,10 @@ After a lot of initial data we figured out where we wanted the antennas to be
 and I laser cut a new vial holder design.
 
 The vial holder design after the POC allowed antennas to be moved around
-slightly to adjust signal strength. I made a mockup of the idea using Legos,
+slightly to adjust signal strength. I made a mockup of the idea using LEGOs,
 because I'm still that little kid. The antenna slides were functional too.
 
-![First Prototype Vial Holder from Legos](/assets/lego_antenna_prototype.jpeg){:width="80%"}
+![First Prototype Vial Holder from LEGOs](/assets/lego_antenna_prototype.jpeg){:width="80%"}
 _I love LEGOs so much_
 
 ![First Prototype Vial Holder](/assets/proto_vial_holder_alone.jpeg){:width="80%"}
