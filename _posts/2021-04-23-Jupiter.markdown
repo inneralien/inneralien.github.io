@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Jupiter"
+date: 2021-04-23 16:50:00 -0700
+author: Tim
+categories: work
+---
+
+Two friends and I started Jupter Advanced Research in an attempt to measure
+metabolically relevant levels of glucose in a human body via microwave
+spectroscopy. Long story short, we partially succeeded but not enough to be
+viable. We had an amazing time doing research, collecting data, and interfacing
+with the great people at [OTRADI](https://www.otradi.org/) the bioscience
+incubator in Portland.
+
+![Jupiter Office Door](/assets/logo_on_door.jpeg){:width="80%"}
+_Of course I had to make the logo and cut out a door sticker!_
+
+Since we were doing research we needed data, lots and lots of data. I created
+an automated data collection system that would energize sample vials with a
+range of frequencies and measure the resulting signals with an analog spectrum
+analyzer. I used GPIB over Ethernet to automate all of the equipment in the
+loop, so I could program ranges of frequency and power and collect everything
+into a PostgreSQL database running on a server I built.
+
+![Automated Data Collection](/assets/automated_lab_setup.jpeg){:width="80%"}
+_Raspberry Pi for controlling the whole system_
+
+We discovered pretty quickly that the vial holder design was critical to
+getting consistent measurement data.
+
+![POC Vial Holder](/assets/poc_vial_holder.jpeg){:width="80%"}
+_Initial POC Vial Holder_
+
+After a lot of initial data we figured out where we wanted the antennas to be
+and I laser cut a new vial holder design.
+
+The vial holder design after the POC allowed antennas to be moved around
+slightly to adjust signal strength.
+
+![First Prototype Vial Holder](/assets/proto_vial_holder_alone.jpeg){:width="80%"}
+
+![Vial Holder Sizing](/assets/vial_cap.jpeg){:width="80%"}
+I cut many prototypes!
+
+Eventually I developed a spring loaded mechanism that would hold a vial
+precisely in the same position every time we inserted it.
+
+![Vial Spring](/assets/vial_spring.jpeg){:width="80%"}
+_Acrylic "Spring"_
+
+I then incorporated this "spring" into a very solid design with fixed antennas.
+
+![Advanced Vial Holder Top](/assets/advanced_vial_holder_top.jpeg){:width="80%"}
+_View of the "springs"_
+
+![Advanced Vial Holder](/assets/advanced_vial_holder.jpeg){:width="80%"}
+_SOLID!_
