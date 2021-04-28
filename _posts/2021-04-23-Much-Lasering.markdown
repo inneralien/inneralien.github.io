@@ -10,9 +10,9 @@ categories: lasers
 _Simple number on a necklace in Walnut_
 
 It's been quite a while since I've added to this blog. It seems that life and
-work have just swept me away and maintaining a blog was the highest priority.
-Here is a little summary of some of the things I've been up to in the years
-since.
+work have just swept me away and maintaining a blog wasn't the highest
+priority.  Here is a little summary of some of the things I've been up to in
+the years since.
 
 ![Weaver Robotics Logo in Walnut](/assets/weaver_robotics.png){:width="60%"}
 _Weaver Robotics logo in Walnut_

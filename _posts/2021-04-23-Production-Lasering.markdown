@@ -7,7 +7,7 @@ categories: lasers
 ---
 
 Sometimes people would ask me if I could do small production runs of various
-items. I cut man acrylic baseplates for PCB development systems, and a lot of
+items. I cut many acrylic baseplates for PCB development systems, and a lot of
 wooden trinkets.
 
 ![PCB Baseplate](/assets/weaver_robotics_pcb_mount.jpeg){:width="80%"}

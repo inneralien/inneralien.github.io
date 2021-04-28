@@ -6,17 +6,17 @@ author: Tim
 categories: work
 ---
 
-Two friends and I started Jupter Advanced Research in an attempt to measure
+Two friends and I started Jupiter Advanced Research in an attempt to measure
 metabolically relevant levels of glucose in a human body via microwave
 spectroscopy. Long story short, we partially succeeded but not enough to be
 viable. We had an amazing time doing research, collecting data, and interfacing
-with the great people at [OTRADI](https://www.otradi.org/) the bioscience
+with the great people at [OTRADI](https://www.otradi.org/), the bioscience
 incubator in Portland.
 
 ![Jupiter Office Door](/assets/logo_on_door.jpeg){:width="80%"}
 _Of course I had to make the logo and cut out a door sticker!_
 
-Since we were doing research we needed data, lots and lots of data. I created
+Since we were doing research, we needed data. Lots and lots of data. I created
 an automated data collection system that would energize sample vials with a
 range of frequencies and measure the resulting signals with an analog spectrum
 analyzer. I used GPIB over Ethernet to automate all of the equipment in the
